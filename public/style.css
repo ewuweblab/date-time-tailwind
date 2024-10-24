@@ -534,21 +534,6 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.bg-slate-400 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(148 163 184 / var(--tw-bg-opacity));
-}
-
-.text-9xl {
-  font-size: 8rem;
-  line-height: 1;
-}
-
-.text-pink-950 {
-  --tw-text-opacity: 1;
-  color: rgb(80 7 36 / var(--tw-text-opacity));
-}
-
 /* Your Awesome Styles */
 
 * {
