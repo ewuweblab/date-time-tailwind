@@ -1,2 +1,3 @@
-# Tailwind CSS Boilerplate
-A very small starter kit for projects using Tailwind CSS.
+# Current Date and Time styled with Tailwind CSS
+
+Get the current date and time in your HTML styled with Tailwind CSS.
